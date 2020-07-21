@@ -16,8 +16,8 @@ This is the dependancy which has all the jars related to restful services.
 
 Project Structure:
 
-CRUDApplication.java
-|---controller.java
-|---Model.java
-|---Repository.java
-|---Service.java
+CRUDApplication.java<br\>
+|---controller.java<br\>
+|---Model.java<br\>
+|---Repository.java<br\>
+|---Service.java<br\>
