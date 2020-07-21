@@ -5,4 +5,4 @@ The dependancies
 
 Java(1.8) ,
 SpringBootweb , 
-lombok
+lombok,JPA
