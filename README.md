@@ -8,3 +8,8 @@ SpringBootweb ,
 lombok,JPA
 
 Lombok is a library which Auto generates getters,setters and constructors for user.
+
+
+SpringBootWEB
+
+This is the dependancy which has all the jars related to restful services.
