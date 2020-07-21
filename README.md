@@ -13,3 +13,11 @@ Lombok is a library which Auto generates getters,setters and constructors for us
 SpringBootWEB
 
 This is the dependancy which has all the jars related to restful services.
+
+Project Structure:
+
+CRUDApplication.java
+|---controller.java
+|---Model.java
+|---Repository.java
+|---Service.java
