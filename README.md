@@ -19,8 +19,8 @@ Project Structure:
 CRUDApplication.java<br>
 |---controller.java<br>
 |---Model.java<br>
-|---Repository.java<br\>
-|---Service.java<br\>
+|---Repository.java<br>
+|---Service.java<br>
 
 
 Cassandra:
