@@ -26,3 +26,5 @@ CRUDApplication.java<br>
 Cassandra:
 
 Apache Cassandra is an open source NoSQL database and management system. It was designed to handle large amounts of data across many servers, data centres and clouds. It can store hundreds of terabytes of data, and differs a lot from relational database management systems (RDBMS). 
+
+Architechtural pattern:MVC
